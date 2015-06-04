@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>271CA3F7-83BF-4F37-9450-A0E076E19324</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IKResults</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9B9A2806B1EDC1D9DC9E203BE4C8CE2E26E17A0F</key>
+		<string>github.com:iankeen82/IKResults.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IKResults.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9B9A2806B1EDC1D9DC9E203BE4C8CE2E26E17A0F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:iankeen82/IKResults.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9B9A2806B1EDC1D9DC9E203BE4C8CE2E26E17A0F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9B9A2806B1EDC1D9DC9E203BE4C8CE2E26E17A0F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IKResults</string>
+		</dict>
+	</array>
+</dict>
+</plist>
